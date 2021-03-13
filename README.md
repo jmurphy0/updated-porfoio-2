@@ -1,5 +1,7 @@
 # Updated porfolio 2
 
+![alt text](./assets/imgs/updatedAboutMe.png)
+
 # Table of Contents
 
 - [Author](##Author)
@@ -47,3 +49,5 @@ N/A
 N/A
 
 ![alt text](./assets/imgs/updatedAboutMe.png)
+![alt text](./assets/imgs/updatedContact.png)
+![alt text](./assets/imgs/updatedPortfolio.png)
