@@ -1,5 +1,7 @@
 # Updated porfolio 2
 
+Check out my page here: https://jmurphy0.github.io/updated-porfoio-2/
+
 ![alt text](./assets/imgs/updatedAboutMe.png)
 
 # Table of Contents
