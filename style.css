@@ -1,0 +1,39 @@
+/*styling the background image*/
+.body {
+  /*background-image: url(https://wallpaperaccess.com/full/532686.jpg);*/
+  background-image: url("./assets/imgs/bgalt2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 0.9;
+}
+/* styling the text within each section  */
+.text {
+  color: white;
+}
+
+.img-thumbnail {
+  opacity: 100%;
+  margin-bottom: 5px;
+}
+.navbar {
+  /* opacity: .9; */
+}
+.card {
+  /* opacity: .9; */
+}
+#abtMe {
+  justify-content: center;
+  content: center;
+  margin-bottom: 5px;
+}
+.btn {
+  margin: 5;
+  padding: 5;
+}
+.ptitle {
+  text-decoration: underline;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
