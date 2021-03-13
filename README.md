@@ -1,39 +1,47 @@
+# Updated porfolio 2
 
-  # Updated porfolio 2
+# Table of Contents
 
-  # Table of Contents
-  * [Author](##Author)
-  * [Project Description](##Description)
-  * [Install](##Install)
-  * [Usage](##Usage)
-  * [Testing](##Testing)
-  * [License](##License)
-  * [Contributors](##Contributors)
-  * [Questions](##Questions)
-   
-  
-  ## Author 
-  Name: Jack 
-  GitHub: jmurphy0
+- [Author](##Author)
+- [Project Description](##Description)
+- [Install](##Install)
+- [Usage](##Usage)
+- [Testing](##Testing)
+- [License](##License)
+- [Contributors](##Contributors)
+- [Questions](##Questions)
 
-  ## Description 
-  A simple page about me!
+## Author
 
-  ## Install 
-  none
+Name: Jack
+GitHub: jmurphy0
 
-  ## Usage 
-  view in browser 
+## Description
 
-  ## Testing 
-  N/A
+A simple page about me!
 
-  ## License 
-  License:   ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)  
-  License link: https://opensource.org/licenses/MIT
+## Install
 
-  ## Contributors 
-  N/A
+none
 
-  ## Questions 
-  N/A
+## Usage
+
+view in browser
+gitHub repo: https://github.com/jmurphy0/updated-porfoio-2.git
+
+## Testing
+
+N/A
+
+## License
+
+License: ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)  
+ License link: https://opensource.org/licenses/MIT
+
+## Contributors
+
+N/A
+
+## Questions
+
+N/A
