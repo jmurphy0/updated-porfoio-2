@@ -1,12 +1,39 @@
-# homework2
-homework2:
 
-https://jmurphy0.github.io/homework2/
-https://github.com/jmurphy0/homework2.git
+  # Updated porfolio 2
 
-![alt text](assets/imgs/hmwk7aboutmePIC.png)
-![alt text](assets/imgs/hmwk7portfolioPIC.png)
-![alt text](assets/imgs/hmwk7aboutmeSm.png)
-![alt text](assets/imgs/hmwk7portfolioSm.png)
-![alt text](assets/contactSM.png)
+  # Table of Contents
+  * [Author](##Author)
+  * [Project Description](##Description)
+  * [Install](##Install)
+  * [Usage](##Usage)
+  * [Testing](##Testing)
+  * [License](##License)
+  * [Contributors](##Contributors)
+  * [Questions](##Questions)
+   
+  
+  ## Author 
+  Name: Jack 
+  GitHub: jmurphy0
 
+  ## Description 
+  A simple page about me!
+
+  ## Install 
+  none
+
+  ## Usage 
+  view in browser 
+
+  ## Testing 
+  N/A
+
+  ## License 
+  License:   ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)  
+  License link: https://opensource.org/licenses/MIT
+
+  ## Contributors 
+  N/A
+
+  ## Questions 
+  N/A
