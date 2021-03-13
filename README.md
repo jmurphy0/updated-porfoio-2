@@ -45,3 +45,5 @@ N/A
 ## Questions
 
 N/A
+
+![alt text](./assets/imgs/updatedAboutMe.png)
